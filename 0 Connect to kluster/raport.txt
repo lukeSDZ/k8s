@@ -1,0 +1,9 @@
+luke@ubuntu:~/git/k8s/0 Connect to kluster$ kubectl cluster-info
+
+Kubernetes control plane is running at https://ks01-dns-invzmkx4.hcp.uksouth.azmk8s.io:443
+CoreDNS is running at https://ks01-dns-invzmkx4.hcp.uksouth.azmk8s.io:443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+Metrics-server is running at https://ks01-dns-invzmkx4.hcp.uksouth.azmk8s.io:443/api/v1/namespaces/kube-system/services/https:metrics-server:/proxy
+
+To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
+luke@ubuntu:~/git/k8s/0 Connect to kluster$ 
+
